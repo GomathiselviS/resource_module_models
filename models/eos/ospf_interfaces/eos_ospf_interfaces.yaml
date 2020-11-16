@@ -140,7 +140,7 @@ options:
             - Valid only when afi = ipv6.
             type: list
             elements: dict
-            subotions:
+            suboptions:
               afi:
                 description:
                 - Address Family Identifier (AFI) for OSPF settings on the interfaces.
